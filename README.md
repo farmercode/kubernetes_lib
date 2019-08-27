@@ -1,6 +1,7 @@
 # kubernetes_lib
 
 kubernetes version:`v1.15.0`
+etcd container version: `3.3.10-1`
 
 ````
   - gcr.io/google_containers/etcd-amd64:{{ etcd_container_version }}
